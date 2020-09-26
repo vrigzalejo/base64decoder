@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: grid;
+  align-items: center;
+}
+
+.App > textarea {
+  min-height: 40vh;
+  min-width: 90vw;
+  max-width: 90vw;
+  margin: 0 auto 1.5em auto;
+  border: 1px solid #000;
+}
+
+.App img {
+  margin-bottom: 10em;
+}
